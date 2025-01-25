@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on full stack developer<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning MERN<br>💬 Ask me about <br>I’m a passionate MERN stack developer with hands-on experience in building dynamic and responsive web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, and Node.js. My journey as a developer has equipped me with the skills to handle both frontend and backend development, enabling me to create cohesive and functional applications.<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rajubhai_sindhu11/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajesh-baskar2211) 
 
